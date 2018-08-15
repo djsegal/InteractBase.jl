@@ -29,6 +29,8 @@ import Widgets:
 
 import Observables: throttle, _val
 
+export observe, Widget
+
 export filepicker, datepicker, timepicker, colorpicker, spinbox
 
 export autocomplete, input, dropdown, checkbox, textbox, textarea, button, slider, toggle, togglecontent
